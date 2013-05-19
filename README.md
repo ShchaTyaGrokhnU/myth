@@ -1,4 +1,4 @@
 myth
 ====
 
-Myth
+AJAX Dialect for Thymeleaf
